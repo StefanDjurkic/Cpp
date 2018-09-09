@@ -1,0 +1,22 @@
+Bandit 3 Rogue Outlaw Outlaw-Leader
+Undead 4 Warlock Zombie Skeleton Lich
+Dragonkin 4 Swordmage Kobold Drake Dragonborn
+Evilwizard 4 Wizard Lizardman Golem Human
+Beholder 4 Wizard Lizardman Orc Beholder
+Drow 4 Ranger Drow Draegloth Drider
+Lizardmen 3 Barbarian Lizardman Giant-Lizardman
+Demon 4 Warrior Imp Demon Balrog
+Hobgoblin 3 Warrior Goblin Hobgoblin
+Vampire 4 Swordmage Fledgling Vampire Vampire-Lord
+Orc 3 Warrior Orc Warchief
+Infestation 3 Warrior Rat Ratking
+Tiger 3 Monk Tigerman TigerKing
+Troll 3 Barbarian Troll Troll
+Ogre 3 Barbarian Ogre Ogre
+Giant 3 Barbarian Giant Giant
+Human 3 Paladin Guard Captain
+Dwarf 3 Warrior Guard Captain
+Elf 3 Ranger Guard Captain
+Gnome 3 Wizard Guard Captain
+Halfling 3 Rogue Guard Captain
+Dragon 2 Warlock Dragonborn DRAGON-GOD

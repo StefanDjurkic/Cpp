@@ -1,0 +1,13 @@
+Village 5 Human Dwarf Elf Gnome Halfling
+Castle 3 Human Dwarf Elf
+City 4 Human Dwarf Elf Gnome
+Dungeon 12 Bandit Undead Dragonkin Evilwizard Beholder Drow Lizardmen Demon Hobgoblin Vampire Orc Infestation
+Cave 12 Bandit Undead Drow Lizardmen Vampire Troll Orc Giant Tiger Infestation Ogre Hobgoblin 
+Forest 9 Bandit Drow Orc Tiger Giant Ogre Troll Hobgoblin Lizardmen Infestation
+Hill 6 Hobgoblin Bandit Giant Ogre Troll Lizardmen
+Mountain 11 Undead Evilwizard Beholder Demon Hobgoblin Orc Infestation Tiger Giant Ogre
+River 5 Bandit Lizardmen Hobgoblin Orc Troll
+Coast 4 Bandit Lizardmen Hobgoblin Orc 
+Plain 5 Bandit Orc Tiger Hobgoblin Troll 
+Spire 8 Undead Evilwizard Beholder Demon Vampire Orc Drow Dragonkin Infestation
+BloodSpire 1 Dragon
