@@ -38,7 +38,7 @@ Some essential information if you need to understand the code:
 4. The player object is setup/created through another object called PlayerCreator, which is called by our Creator module
 
 5. Currently our areas and species files use indices to tell the function the size it needs to loop through, which is something we should change
------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
 
 Section B:
 How the game works so far and explaining the game loop:
@@ -60,7 +60,7 @@ How the game works so far and explaining the game loop:
 8. If the player is still alive we save their information, else if the player has died we delete the map, player save, and then end the game/program
 
 9. Should the program have ended whilst the player was still alive, if the program is restarted the player and map are loaded and creation is skipped
------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
 
 Section C:
 TODO LIST: 9/9/2018
@@ -73,4 +73,4 @@ This list contains the next steps for the project:
 6. Create interaction between the player and a location (towns,cities, etc...)
 7. Flesh out the final boss and his BloodSpire location
 8. Update the list as we go
------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
