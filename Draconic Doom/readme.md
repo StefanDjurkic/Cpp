@@ -27,6 +27,7 @@ Author:  Stefan Djurkic
 Contact: <https://www.StefanDjurkic.com> || stefandjurkic@gmail.com
 
 Copyright 2018 Stefan Djurkic
+
 /******************************************************************************************/
 
 **This game is a C++ text adventure as well as a passion project of mine, and it is currently in alpha.**
