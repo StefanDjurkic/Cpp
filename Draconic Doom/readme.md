@@ -19,9 +19,13 @@ along with "Draconic Doom".  If not, see <https://www.gnu.org/licenses/>.
 
 /******************************************************************************************\
 "Draconic Doom", Version 0.0.1
+
 FileName: readme
+
 Author:  Stefan Djurkic
+
 Contact: <https://www.StefanDjurkic.com> || stefandjurkic@gmail.com
+
 Copyright 2018 Stefan Djurkic
 /******************************************************************************************/
 
